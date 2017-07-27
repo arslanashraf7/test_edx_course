@@ -1,5 +1,8 @@
 {
     "course/course": {
+        "advanced_modules": [
+            "edx_sga"
+        ], 
         "cert_html_view_enabled": true, 
         "discussion_topics": {
             "General": {
