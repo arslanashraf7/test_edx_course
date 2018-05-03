@@ -1,1 +1,6170 @@
-{}
+{
+    "1.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "1.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "1.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@1.png", 
+        "import_path": "1.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "1-png.jpg", 
+            null
+        ]
+    }, 
+    "10.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "10.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "10.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@10.png", 
+        "import_path": "10.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "10-png.jpg", 
+            null
+        ]
+    }, 
+    "100.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "100.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "100.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@100.png", 
+        "import_path": "100.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "100-png.jpg", 
+            null
+        ]
+    }, 
+    "101.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "101.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "101.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@101.png", 
+        "import_path": "101.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "101-png.jpg", 
+            null
+        ]
+    }, 
+    "102.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "102.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "102.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@102.png", 
+        "import_path": "102.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "102-png.jpg", 
+            null
+        ]
+    }, 
+    "103.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "103.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "103.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@103.png", 
+        "import_path": "103.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "103-png.jpg", 
+            null
+        ]
+    }, 
+    "104.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "104.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "104.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@104.png", 
+        "import_path": "104.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "104-png.jpg", 
+            null
+        ]
+    }, 
+    "105.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "105.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "105.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@105.png", 
+        "import_path": "105.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "105-png.jpg", 
+            null
+        ]
+    }, 
+    "106.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "106.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "106.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@106.png", 
+        "import_path": "106.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "106-png.jpg", 
+            null
+        ]
+    }, 
+    "107.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "107.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "107.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@107.png", 
+        "import_path": "107.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "107-png.jpg", 
+            null
+        ]
+    }, 
+    "108.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "108.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "108.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@108.png", 
+        "import_path": "108.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "108-png.jpg", 
+            null
+        ]
+    }, 
+    "109.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "109.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "109.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@109.png", 
+        "import_path": "109.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "109-png.jpg", 
+            null
+        ]
+    }, 
+    "11.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "11.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "11.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@11.png", 
+        "import_path": "11.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "11-png.jpg", 
+            null
+        ]
+    }, 
+    "110.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "110.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "110.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@110.png", 
+        "import_path": "110.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "110-png.jpg", 
+            null
+        ]
+    }, 
+    "111.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "111.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "111.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@111.png", 
+        "import_path": "111.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "111-png.jpg", 
+            null
+        ]
+    }, 
+    "112.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "112.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "112.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@112.png", 
+        "import_path": "112.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "112-png.jpg", 
+            null
+        ]
+    }, 
+    "113.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "113.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "113.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@113.png", 
+        "import_path": "113.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "113-png.jpg", 
+            null
+        ]
+    }, 
+    "114.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "114.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "114.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@114.png", 
+        "import_path": "114.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "114-png.jpg", 
+            null
+        ]
+    }, 
+    "116.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "116.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "116.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@116.png", 
+        "import_path": "116.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "116-png.jpg", 
+            null
+        ]
+    }, 
+    "117.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "117.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "117.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@117.png", 
+        "import_path": "117.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "117-png.jpg", 
+            null
+        ]
+    }, 
+    "118.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "118.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "118.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@118.png", 
+        "import_path": "118.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "118-png.jpg", 
+            null
+        ]
+    }, 
+    "119.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "119.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "119.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@119.png", 
+        "import_path": "119.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "119-png.jpg", 
+            null
+        ]
+    }, 
+    "12.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "12.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "12.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@12.png", 
+        "import_path": "12.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "12-png.jpg", 
+            null
+        ]
+    }, 
+    "120.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "120.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "120.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@120.png", 
+        "import_path": "120.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "120-png.jpg", 
+            null
+        ]
+    }, 
+    "121.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "121.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "121.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@121.png", 
+        "import_path": "121.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "121-png.jpg", 
+            null
+        ]
+    }, 
+    "122.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "122.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "122.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@122.png", 
+        "import_path": "122.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "122-png.jpg", 
+            null
+        ]
+    }, 
+    "123.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "123.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "123.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@123.png", 
+        "import_path": "123.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "123-png.jpg", 
+            null
+        ]
+    }, 
+    "124.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "124.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "124.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@124.png", 
+        "import_path": "124.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "124-png.jpg", 
+            null
+        ]
+    }, 
+    "125.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "125.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "125.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@125.png", 
+        "import_path": "125.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "125-png.jpg", 
+            null
+        ]
+    }, 
+    "126.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "126.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "126.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@126.png", 
+        "import_path": "126.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "126-png.jpg", 
+            null
+        ]
+    }, 
+    "127.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "127.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "127.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@127.png", 
+        "import_path": "127.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "127-png.jpg", 
+            null
+        ]
+    }, 
+    "128.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "128.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "128.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@128.png", 
+        "import_path": "128.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "128-png.jpg", 
+            null
+        ]
+    }, 
+    "129.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "129.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "129.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@129.png", 
+        "import_path": "129.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "129-png.jpg", 
+            null
+        ]
+    }, 
+    "13.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "13.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "13.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@13.png", 
+        "import_path": "13.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "13-png.jpg", 
+            null
+        ]
+    }, 
+    "131.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "131.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "131.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@131.png", 
+        "import_path": "131.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "131-png.jpg", 
+            null
+        ]
+    }, 
+    "132.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "132.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "132.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@132.png", 
+        "import_path": "132.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "132-png.jpg", 
+            null
+        ]
+    }, 
+    "133.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "133.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "133.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@133.png", 
+        "import_path": "133.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "133-png.jpg", 
+            null
+        ]
+    }, 
+    "134.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "134.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "134.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@134.png", 
+        "import_path": "134.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "134-png.jpg", 
+            null
+        ]
+    }, 
+    "135.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "135.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "135.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@135.png", 
+        "import_path": "135.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "135-png.jpg", 
+            null
+        ]
+    }, 
+    "136.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "136.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "136.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@136.png", 
+        "import_path": "136.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "136-png.jpg", 
+            null
+        ]
+    }, 
+    "137.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "137.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "137.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@137.png", 
+        "import_path": "137.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "137-png.jpg", 
+            null
+        ]
+    }, 
+    "138.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "138.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "138.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@138.png", 
+        "import_path": "138.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "138-png.jpg", 
+            null
+        ]
+    }, 
+    "139.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "139.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "139.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@139.png", 
+        "import_path": "139.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "139-png.jpg", 
+            null
+        ]
+    }, 
+    "14.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "14.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "14.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@14.png", 
+        "import_path": "14.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "14-png.jpg", 
+            null
+        ]
+    }, 
+    "15.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "15.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "15.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@15.png", 
+        "import_path": "15.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "15-png.jpg", 
+            null
+        ]
+    }, 
+    "16.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "16.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "16.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@16.png", 
+        "import_path": "16.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "16-png.jpg", 
+            null
+        ]
+    }, 
+    "17.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "17.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "17.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@17.png", 
+        "import_path": "17.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "17-png.jpg", 
+            null
+        ]
+    }, 
+    "18.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "18.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "18.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@18.png", 
+        "import_path": "18.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "18-png.jpg", 
+            null
+        ]
+    }, 
+    "19.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "19.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "19.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@19.png", 
+        "import_path": "19.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "19-png.jpg", 
+            null
+        ]
+    }, 
+    "2.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "2.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "2.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@2.png", 
+        "import_path": "2.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "2-png.jpg", 
+            null
+        ]
+    }, 
+    "20.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "20.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "20.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@20.png", 
+        "import_path": "20.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "20-png.jpg", 
+            null
+        ]
+    }, 
+    "21.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "21.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "21.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@21.png", 
+        "import_path": "21.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "21-png.jpg", 
+            null
+        ]
+    }, 
+    "22.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "22.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "22.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@22.png", 
+        "import_path": "22.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "22-png.jpg", 
+            null
+        ]
+    }, 
+    "23.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "23.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "23.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@23.png", 
+        "import_path": "23.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "23-png.jpg", 
+            null
+        ]
+    }, 
+    "24.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "24.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "24.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@24.png", 
+        "import_path": "24.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "24-png.jpg", 
+            null
+        ]
+    }, 
+    "25.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "25.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "25.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@25.png", 
+        "import_path": "25.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "25-png.jpg", 
+            null
+        ]
+    }, 
+    "26.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "26.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "26.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@26.png", 
+        "import_path": "26.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "26-png.jpg", 
+            null
+        ]
+    }, 
+    "27.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "27.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "27.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@27.png", 
+        "import_path": "27.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "27-png.jpg", 
+            null
+        ]
+    }, 
+    "28.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "28.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "28.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@28.png", 
+        "import_path": "28.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "28-png.jpg", 
+            null
+        ]
+    }, 
+    "29.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "29.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "29.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@29.png", 
+        "import_path": "29.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "29-png.jpg", 
+            null
+        ]
+    }, 
+    "3.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "3.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "3.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@3.png", 
+        "import_path": "3.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "3-png.jpg", 
+            null
+        ]
+    }, 
+    "30.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "30.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "30.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@30.png", 
+        "import_path": "30.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "30-png.jpg", 
+            null
+        ]
+    }, 
+    "31.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "31.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "31.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@31.png", 
+        "import_path": "31.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "31-png.jpg", 
+            null
+        ]
+    }, 
+    "32.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "32.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "32.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@32.png", 
+        "import_path": "32.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "32-png.jpg", 
+            null
+        ]
+    }, 
+    "33.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "33.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "33.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@33.png", 
+        "import_path": "33.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "33-png.jpg", 
+            null
+        ]
+    }, 
+    "34.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "34.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "34.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@34.png", 
+        "import_path": "34.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "34-png.jpg", 
+            null
+        ]
+    }, 
+    "35.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "35.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "35.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@35.png", 
+        "import_path": "35.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "35-png.jpg", 
+            null
+        ]
+    }, 
+    "36.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "36.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "36.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@36.png", 
+        "import_path": "36.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "36-png.jpg", 
+            null
+        ]
+    }, 
+    "37.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "37.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "37.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@37.png", 
+        "import_path": "37.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "37-png.jpg", 
+            null
+        ]
+    }, 
+    "38.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "38.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "38.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@38.png", 
+        "import_path": "38.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "38-png.jpg", 
+            null
+        ]
+    }, 
+    "39.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "39.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "39.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@39.png", 
+        "import_path": "39.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "39-png.jpg", 
+            null
+        ]
+    }, 
+    "4.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "4.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "4.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@4.png", 
+        "import_path": "4.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "4-png.jpg", 
+            null
+        ]
+    }, 
+    "40.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "40.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "40.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@40.png", 
+        "import_path": "40.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "40-png.jpg", 
+            null
+        ]
+    }, 
+    "41.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "41.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "41.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@41.png", 
+        "import_path": "41.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "41-png.jpg", 
+            null
+        ]
+    }, 
+    "42.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "42.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "42.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@42.png", 
+        "import_path": "42.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "42-png.jpg", 
+            null
+        ]
+    }, 
+    "43.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "43.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "43.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@43.png", 
+        "import_path": "43.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "43-png.jpg", 
+            null
+        ]
+    }, 
+    "44.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "44.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "44.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@44.png", 
+        "import_path": "44.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "44-png.jpg", 
+            null
+        ]
+    }, 
+    "45.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "45.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "45.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@45.png", 
+        "import_path": "45.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "45-png.jpg", 
+            null
+        ]
+    }, 
+    "46.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "46.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "46.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@46.png", 
+        "import_path": "46.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "46-png.jpg", 
+            null
+        ]
+    }, 
+    "47.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "47.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "47.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@47.png", 
+        "import_path": "47.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "47-png.jpg", 
+            null
+        ]
+    }, 
+    "48.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "48.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "48.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@48.png", 
+        "import_path": "48.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "48-png.jpg", 
+            null
+        ]
+    }, 
+    "49.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "49.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "49.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@49.png", 
+        "import_path": "49.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "49-png.jpg", 
+            null
+        ]
+    }, 
+    "5.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "5.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "5.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@5.png", 
+        "import_path": "5.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "5-png.jpg", 
+            null
+        ]
+    }, 
+    "50.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "50.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "50.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@50.png", 
+        "import_path": "50.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "50-png.jpg", 
+            null
+        ]
+    }, 
+    "500px-Youth_hostel_road_sign.svg.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "500px-Youth_hostel_road_sign.svg.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "500px-Youth_hostel_road_sign.svg.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@500px-Youth_hostel_road_sign.svg.png", 
+        "import_path": "500px-Youth_hostel_road_sign.svg.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "500px-Youth_hostel_road_sign.svg-png.jpg", 
+            null
+        ]
+    }, 
+    "51.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "51.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "51.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@51.png", 
+        "import_path": "51.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "51-png.jpg", 
+            null
+        ]
+    }, 
+    "52.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "52.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "52.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@52.png", 
+        "import_path": "52.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "52-png.jpg", 
+            null
+        ]
+    }, 
+    "53.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "53.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "53.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@53.png", 
+        "import_path": "53.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "53-png.jpg", 
+            null
+        ]
+    }, 
+    "54.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "54.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "54.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@54.png", 
+        "import_path": "54.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "54-png.jpg", 
+            null
+        ]
+    }, 
+    "55.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "55.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "55.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@55.png", 
+        "import_path": "55.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "55-png.jpg", 
+            null
+        ]
+    }, 
+    "56.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "56.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "56.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@56.png", 
+        "import_path": "56.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "56-png.jpg", 
+            null
+        ]
+    }, 
+    "57.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "57.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "57.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@57.png", 
+        "import_path": "57.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "57-png.jpg", 
+            null
+        ]
+    }, 
+    "58.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "58.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "58.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@58.png", 
+        "import_path": "58.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "58-png.jpg", 
+            null
+        ]
+    }, 
+    "59.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "59.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "59.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@59.png", 
+        "import_path": "59.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "59-png.jpg", 
+            null
+        ]
+    }, 
+    "6.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "6.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "6.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@6.png", 
+        "import_path": "6.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "6-png.jpg", 
+            null
+        ]
+    }, 
+    "60.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "60.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "60.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@60.png", 
+        "import_path": "60.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "60-png.jpg", 
+            null
+        ]
+    }, 
+    "61.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "61.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "61.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@61.png", 
+        "import_path": "61.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "61-png.jpg", 
+            null
+        ]
+    }, 
+    "62.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "62.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "62.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@62.png", 
+        "import_path": "62.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "62-png.jpg", 
+            null
+        ]
+    }, 
+    "63.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "63.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "63.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@63.png", 
+        "import_path": "63.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "63-png.jpg", 
+            null
+        ]
+    }, 
+    "64.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "64.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "64.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@64.png", 
+        "import_path": "64.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "64-png.jpg", 
+            null
+        ]
+    }, 
+    "65.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "65.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "65.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@65.png", 
+        "import_path": "65.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "65-png.jpg", 
+            null
+        ]
+    }, 
+    "66.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "66.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "66.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@66.png", 
+        "import_path": "66.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "66-png.jpg", 
+            null
+        ]
+    }, 
+    "67.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "67.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "67.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@67.png", 
+        "import_path": "67.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "67-png.jpg", 
+            null
+        ]
+    }, 
+    "68.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "68.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "68.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@68.png", 
+        "import_path": "68.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "68-png.jpg", 
+            null
+        ]
+    }, 
+    "69.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "69.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "69.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@69.png", 
+        "import_path": "69.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "69-png.jpg", 
+            null
+        ]
+    }, 
+    "7.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "7.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "7.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@7.png", 
+        "import_path": "7.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "7-png.jpg", 
+            null
+        ]
+    }, 
+    "70.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "70.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "70.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@70.png", 
+        "import_path": "70.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "70-png.jpg", 
+            null
+        ]
+    }, 
+    "71.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "71.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "71.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@71.png", 
+        "import_path": "71.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "71-png.jpg", 
+            null
+        ]
+    }, 
+    "72.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "72.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "72.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@72.png", 
+        "import_path": "72.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "72-png.jpg", 
+            null
+        ]
+    }, 
+    "73.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "73.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "73.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@73.png", 
+        "import_path": "73.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "73-png.jpg", 
+            null
+        ]
+    }, 
+    "74.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "74.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "74.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@74.png", 
+        "import_path": "74.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "74-png.jpg", 
+            null
+        ]
+    }, 
+    "75.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "75.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "75.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@75.png", 
+        "import_path": "75.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "75-png.jpg", 
+            null
+        ]
+    }, 
+    "75245-tram-stop.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "75245-tram-stop.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "75245-tram-stop.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@75245-tram-stop.png", 
+        "import_path": "75245-tram-stop.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "75245-tram-stop-png.jpg", 
+            null
+        ]
+    }, 
+    "76.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "76.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "76.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@76.png", 
+        "import_path": "76.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "76-png.jpg", 
+            null
+        ]
+    }, 
+    "77.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "77.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "77.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@77.png", 
+        "import_path": "77.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "77-png.jpg", 
+            null
+        ]
+    }, 
+    "78.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "78.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "78.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@78.png", 
+        "import_path": "78.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "78-png.jpg", 
+            null
+        ]
+    }, 
+    "79.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "79.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "79.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@79.png", 
+        "import_path": "79.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "79-png.jpg", 
+            null
+        ]
+    }, 
+    "8.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "8.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "8.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@8.png", 
+        "import_path": "8.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "8-png.jpg", 
+            null
+        ]
+    }, 
+    "80.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "80.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "80.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@80.png", 
+        "import_path": "80.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "80-png.jpg", 
+            null
+        ]
+    }, 
+    "81.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "81.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "81.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@81.png", 
+        "import_path": "81.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "81-png.jpg", 
+            null
+        ]
+    }, 
+    "82.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "82.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "82.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@82.png", 
+        "import_path": "82.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "82-png.jpg", 
+            null
+        ]
+    }, 
+    "83.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "83.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "83.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@83.png", 
+        "import_path": "83.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "83-png.jpg", 
+            null
+        ]
+    }, 
+    "84.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "84.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "84.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@84.png", 
+        "import_path": "84.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "84-png.jpg", 
+            null
+        ]
+    }, 
+    "85.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "85.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "85.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@85.png", 
+        "import_path": "85.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "85-png.jpg", 
+            null
+        ]
+    }, 
+    "86.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "86.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "86.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@86.png", 
+        "import_path": "86.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "86-png.jpg", 
+            null
+        ]
+    }, 
+    "87.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "87.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "87.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@87.png", 
+        "import_path": "87.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "87-png.jpg", 
+            null
+        ]
+    }, 
+    "88.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "88.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "88.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@88.png", 
+        "import_path": "88.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "88-png.jpg", 
+            null
+        ]
+    }, 
+    "89.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "89.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "89.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@89.png", 
+        "import_path": "89.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "89-png.jpg", 
+            null
+        ]
+    }, 
+    "9.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "9.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "9.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@9.png", 
+        "import_path": "9.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "9-png.jpg", 
+            null
+        ]
+    }, 
+    "90.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "90.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "90.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@90.png", 
+        "import_path": "90.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "90-png.jpg", 
+            null
+        ]
+    }, 
+    "91.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "91.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "91.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@91.png", 
+        "import_path": "91.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "91-png.jpg", 
+            null
+        ]
+    }, 
+    "92.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "92.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "92.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@92.png", 
+        "import_path": "92.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "92-png.jpg", 
+            null
+        ]
+    }, 
+    "93.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "93.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "93.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@93.png", 
+        "import_path": "93.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "93-png.jpg", 
+            null
+        ]
+    }, 
+    "94.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "94.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "94.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@94.png", 
+        "import_path": "94.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "94-png.jpg", 
+            null
+        ]
+    }, 
+    "95.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "95.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "95.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@95.png", 
+        "import_path": "95.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "95-png.jpg", 
+            null
+        ]
+    }, 
+    "96.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "96.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "96.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@96.png", 
+        "import_path": "96.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "96-png.jpg", 
+            null
+        ]
+    }, 
+    "97.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "97.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "97.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@97.png", 
+        "import_path": "97.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "97-png.jpg", 
+            null
+        ]
+    }, 
+    "98.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "98.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "98.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@98.png", 
+        "import_path": "98.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "98-png.jpg", 
+            null
+        ]
+    }, 
+    "99.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "99.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "99.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@99.png", 
+        "import_path": "99.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "99-png.jpg", 
+            null
+        ]
+    }, 
+    "Audible-warning-devices-prohibited.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "Audible-warning-devices-prohibited.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Audible-warning-devices-prohibited.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@Audible-warning-devices-prohibited.jpg", 
+        "import_path": "Audible-warning-devices-prohibited.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "Audible-warning-devices-prohibited.jpg", 
+            null
+        ]
+    }, 
+    "Hospital.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "Hospital.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Hospital.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@Hospital.jpg", 
+        "import_path": "Hospital.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "Hospital.jpg", 
+            null
+        ]
+    }, 
+    "Narrow_bridge_sign__India_.svg.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "Narrow_bridge_sign__India_.svg.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Narrow_bridge_sign_(India).svg.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@Narrow_bridge_sign__India_.svg.png", 
+        "import_path": "Narrow_bridge_sign_(India).svg.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "Narrow_bridge_sign__India_.svg-png.jpg", 
+            null
+        ]
+    }, 
+    "ParkingPlace-indicated.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "ParkingPlace-indicated.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "ParkingPlace-indicated.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@ParkingPlace-indicated.jpg", 
+        "import_path": "ParkingPlace-indicated.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "ParkingPlace-indicated.jpg", 
+            null
+        ]
+    }, 
+    "TR712-600REF-15231477.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "TR712-600REF-15231477.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "TR712-600REF-15231477.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@TR712-600REF-15231477.jpg", 
+        "import_path": "TR712-600REF-15231477.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "TR712-600REF-15231477.jpg", 
+            null
+        ]
+    }, 
+    "air-field.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "air-field.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "air-field.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@air-field.jpg", 
+        "import_path": "air-field.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "air-field.jpg", 
+            null
+        ]
+    }, 
+    "beginning-of-built-up-area.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "beginning-of-built-up-area.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "beginning-of-built-up-area.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@beginning-of-built-up-area.jpg", 
+        "import_path": "beginning-of-built-up-area.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "beginning-of-built-up-area.jpg", 
+            null
+        ]
+    }, 
+    "bicycle-lane-160714_640.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "bicycle-lane-160714_640.png", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "bicycle-lane-160714_640.png", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@bicycle-lane-160714_640.png", 
+        "import_path": "bicycle-lane-160714_640.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "bicycle-lane-160714_640-png.jpg", 
+            null
+        ]
+    }, 
+    "breakdown-service.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "breakdown-service.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "breakdown-service.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@breakdown-service.jpg", 
+        "import_path": "breakdown-service.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "breakdown-service.jpg", 
+            null
+        ]
+    }, 
+    "bus-stop.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "bus-stop.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "bus-stop.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@bus-stop.jpg", 
+        "import_path": "bus-stop.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "bus-stop.jpg", 
+            null
+        ]
+    }, 
+    "cafeteria.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "cafeteria.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "cafeteria.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@cafeteria.jpg", 
+        "import_path": "cafeteria.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "cafeteria.jpg", 
+            null
+        ]
+    }, 
+    "camping-and-caravan-site.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "camping-and-caravan-site.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "camping-and-caravan-site.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@camping-and-caravan-site.jpg", 
+        "import_path": "camping-and-caravan-site.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "camping-and-caravan-site.jpg", 
+            null
+        ]
+    }, 
+    "camping-site.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "camping-site.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "camping-site.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@camping-site.jpg", 
+        "import_path": "camping-site.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "camping-site.jpg", 
+            null
+        ]
+    }, 
+    "caravan-site.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "caravan-site.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "caravan-site.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@caravan-site.jpg", 
+        "import_path": "caravan-site.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "caravan-site.jpg", 
+            null
+        ]
+    }, 
+    "carrigeway-narrows.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "carrigeway-narrows.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "carrigeway-narrows.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@carrigeway-narrows.jpg", 
+        "import_path": "carrigeway-narrows.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "carrigeway-narrows.jpg", 
+            null
+        ]
+    }, 
+    "cattle-crossing.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "cattle-crossing.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "cattle-crossing.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@cattle-crossing.jpg", 
+        "import_path": "cattle-crossing.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "cattle-crossing.jpg", 
+            null
+        ]
+    }, 
+    "children-crossing.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "children-crossing.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "children-crossing.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@children-crossing.jpg", 
+        "import_path": "children-crossing.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "children-crossing.jpg", 
+            null
+        ]
+    }, 
+    "compulsory-roundabout.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "compulsory-roundabout.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "compulsory-roundabout.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@compulsory-roundabout.jpg", 
+        "import_path": "compulsory-roundabout.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "compulsory-roundabout.jpg", 
+            null
+        ]
+    }, 
+    "cyclists.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "cyclists.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "cyclists.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@cyclists.jpg", 
+        "import_path": "cyclists.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "cyclists.jpg", 
+            null
+        ]
+    }, 
+    "dangerous-descent.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "dangerous-descent.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "dangerous-descent.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@dangerous-descent.jpg", 
+        "import_path": "dangerous-descent.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "dangerous-descent.jpg", 
+            null
+        ]
+    }, 
+    "dead-end-road.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "dead-end-road.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "dead-end-road.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@dead-end-road.jpg", 
+        "import_path": "dead-end-road.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "dead-end-road.jpg", 
+            null
+        ]
+    }, 
+    "direction-of-air-port.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "direction-of-air-port.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "direction-of-air-port.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@direction-of-air-port.jpg", 
+        "import_path": "direction-of-air-port.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "direction-of-air-port.jpg", 
+            null
+        ]
+    }, 
+    "direction-of-place.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "direction-of-place.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "direction-of-place.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@direction-of-place.jpg", 
+        "import_path": "direction-of-place.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "direction-of-place.jpg", 
+            null
+        ]
+    }, 
+    "direction-signs.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "direction-signs.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "direction-signs.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@direction-signs.jpg", 
+        "import_path": "direction-signs.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "direction-signs.jpg", 
+            null
+        ]
+    }, 
+    "double-bend-to-the-left.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "double-bend-to-the-left.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "double-bend-to-the-left.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@double-bend-to-the-left.jpg", 
+        "import_path": "double-bend-to-the-left.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "double-bend-to-the-left.jpg", 
+            null
+        ]
+    }, 
+    "double-bend-to-the-right.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "double-bend-to-the-right.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "double-bend-to-the-right.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@double-bend-to-the-right.jpg", 
+        "import_path": "double-bend-to-the-right.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "double-bend-to-the-right.jpg", 
+            null
+        ]
+    }, 
+    "dual-carriageway-ahead.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "dual-carriageway-ahead.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "dual-carriageway-ahead.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@dual-carriageway-ahead.jpg", 
+        "import_path": "dual-carriageway-ahead.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "dual-carriageway-ahead.jpg", 
+            null
+        ]
+    }, 
+    "dual-carriageway-end.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "dual-carriageway-end.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "dual-carriageway-end.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@dual-carriageway-end.jpg", 
+        "import_path": "dual-carriageway-end.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "dual-carriageway-end.jpg", 
+            null
+        ]
+    }, 
+    "end-of-all-prohibitions-imposed.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "end-of-all-prohibitions-imposed.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "end-of-all-prohibitions-imposed.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@end-of-all-prohibitions-imposed.jpg", 
+        "import_path": "end-of-all-prohibitions-imposed.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "end-of-all-prohibitions-imposed.jpg", 
+            null
+        ]
+    }, 
+    "end-of-built-up-area.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "end-of-built-up-area.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "end-of-built-up-area.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@end-of-built-up-area.jpg", 
+        "import_path": "end-of-built-up-area.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "end-of-built-up-area.jpg", 
+            null
+        ]
+    }, 
+    "end-of-prohibition-of-overtaking.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "end-of-prohibition-of-overtaking.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "end-of-prohibition-of-overtaking.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@end-of-prohibition-of-overtaking.jpg", 
+        "import_path": "end-of-prohibition-of-overtaking.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "end-of-prohibition-of-overtaking.jpg", 
+            null
+        ]
+    }, 
+    "end-of-speed-limit-imposed.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "end-of-speed-limit-imposed.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "end-of-speed-limit-imposed.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@end-of-speed-limit-imposed.jpg", 
+        "import_path": "end-of-speed-limit-imposed.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "end-of-speed-limit-imposed.jpg", 
+            null
+        ]
+    }, 
+    "facility-indicated.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "facility-indicated.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "facility-indicated.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@facility-indicated.jpg", 
+        "import_path": "facility-indicated.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "facility-indicated.jpg", 
+            null
+        ]
+    }, 
+    "falling-rock.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "falling-rock.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "falling-rock.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@falling-rock.jpg", 
+        "import_path": "falling-rock.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "falling-rock.jpg", 
+            null
+        ]
+    }, 
+    "filling-station.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "filling-station.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "filling-station.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@filling-station.jpg", 
+        "import_path": "filling-station.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "filling-station.jpg", 
+            null
+        ]
+    }, 
+    "first-aid-station.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "first-aid-station.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "first-aid-station.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@first-aid-station.jpg", 
+        "import_path": "first-aid-station.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "first-aid-station.jpg", 
+            null
+        ]
+    }, 
+    "give-way-or-stop-completely.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "give-way-or-stop-completely.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "give-way-or-stop-completely.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@give-way-or-stop-completely.jpg", 
+        "import_path": "give-way-or-stop-completely.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "give-way-or-stop-completely.jpg", 
+            null
+        ]
+    }, 
+    "go-straight-ahead.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "go-straight-ahead.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "go-straight-ahead.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@go-straight-ahead.jpg", 
+        "import_path": "go-straight-ahead.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "go-straight-ahead.jpg", 
+            null
+        ]
+    }, 
+    "go-straight-or-left.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "go-straight-or-left.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "go-straight-or-left.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@go-straight-or-left.jpg", 
+        "import_path": "go-straight-or-left.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "go-straight-or-left.jpg", 
+            null
+        ]
+    }, 
+    "go-straight-or-right.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "go-straight-or-right.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "go-straight-or-right.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@go-straight-or-right.jpg", 
+        "import_path": "go-straight-or-right.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "go-straight-or-right.jpg", 
+            null
+        ]
+    }, 
+    "hotel-or-motel.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "hotel-or-motel.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "hotel-or-motel.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@hotel-or-motel.jpg", 
+        "import_path": "hotel-or-motel.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "hotel-or-motel.jpg", 
+            null
+        ]
+    }, 
+    "keep-to-the-left.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "keep-to-the-left.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "keep-to-the-left.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@keep-to-the-left.jpg", 
+        "import_path": "keep-to-the-left.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "keep-to-the-left.jpg", 
+            null
+        ]
+    }, 
+    "keep-to-the-right.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "keep-to-the-right.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "keep-to-the-right.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@keep-to-the-right.jpg", 
+        "import_path": "keep-to-the-right.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "keep-to-the-right.jpg", 
+            null
+        ]
+    }, 
+    "lane-control-sign.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "lane-control-sign.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "lane-control-sign.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@lane-control-sign.jpg", 
+        "import_path": "lane-control-sign.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "lane-control-sign.jpg", 
+            null
+        ]
+    }, 
+    "left-bend.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "left-bend.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "left-bend.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@left-bend.jpg", 
+        "import_path": "left-bend.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "left-bend.jpg", 
+            null
+        ]
+    }, 
+    "level-crossing-with-gate.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "level-crossing-with-gate.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "level-crossing-with-gate.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@level-crossing-with-gate.jpg", 
+        "import_path": "level-crossing-with-gate.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "level-crossing-with-gate.jpg", 
+            null
+        ]
+    }, 
+    "level-crossing-without-gate.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "level-crossing-without-gate.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "level-crossing-without-gate.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@level-crossing-without-gate.jpg", 
+        "import_path": "level-crossing-without-gate.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "level-crossing-without-gate.jpg", 
+            null
+        ]
+    }, 
+    "light-signals.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "light-signals.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "light-signals.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@light-signals.jpg", 
+        "import_path": "light-signals.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "light-signals.jpg", 
+            null
+        ]
+    }, 
+    "lose-gravel.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "lose-gravel.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "lose-gravel.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@lose-gravel.jpg", 
+        "import_path": "lose-gravel.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "lose-gravel.jpg", 
+            null
+        ]
+    }, 
+    "major_road_ahead01.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "major_road_ahead01.gif", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "major_road_ahead01.gif", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@major_road_ahead01.gif", 
+        "import_path": "major_road_ahead01.gif", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "major_road_ahead01-gif.jpg", 
+            null
+        ]
+    }, 
+    "maximum-speed-limit-50-Km-h.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "maximum-speed-limit-50-Km-h.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "maximum-speed-limit-50-Km-h.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@maximum-speed-limit-50-Km-h.jpg", 
+        "import_path": "maximum-speed-limit-50-Km-h.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "maximum-speed-limit-50-Km-h.jpg", 
+            null
+        ]
+    }, 
+    "minor-cross-road-from-left.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "minor-cross-road-from-left.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "minor-cross-road-from-left.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@minor-cross-road-from-left.jpg", 
+        "import_path": "minor-cross-road-from-left.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "minor-cross-road-from-left.jpg", 
+            null
+        ]
+    }, 
+    "minor-cross-road-from-right.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "minor-cross-road-from-right.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "minor-cross-road-from-right.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@minor-cross-road-from-right.jpg", 
+        "import_path": "minor-cross-road-from-right.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "minor-cross-road-from-right.jpg", 
+            null
+        ]
+    }, 
+    "minor-cross-road-joining-from-left.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "minor-cross-road-joining-from-left.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "minor-cross-road-joining-from-left.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@minor-cross-road-joining-from-left.jpg", 
+        "import_path": "minor-cross-road-joining-from-left.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "minor-cross-road-joining-from-left.jpg", 
+            null
+        ]
+    }, 
+    "minor-cross-road-joining-from-right.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "minor-cross-road-joining-from-right.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "minor-cross-road-joining-from-right.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@minor-cross-road-joining-from-right.jpg", 
+        "import_path": "minor-cross-road-joining-from-right.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "minor-cross-road-joining-from-right.jpg", 
+            null
+        ]
+    }, 
+    "minor-cross-road.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "minor-cross-road.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "minor-cross-road.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@minor-cross-road.jpg", 
+        "import_path": "minor-cross-road.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "minor-cross-road.jpg", 
+            null
+        ]
+    }, 
+    "minor-cross-roads-from-left-and-right-respectively.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "minor-cross-roads-from-left-and-right-respectively.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "minor-cross-roads-from-left-and-right-respectively.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@minor-cross-roads-from-left-and-right-respectively.jpg", 
+        "import_path": "minor-cross-roads-from-left-and-right-respectively.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "minor-cross-roads-from-left-and-right-respectively.jpg", 
+            null
+        ]
+    }, 
+    "minor-cross-roads-from-right-and-left-respectively.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "minor-cross-roads-from-right-and-left-respectively.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "minor-cross-roads-from-right-and-left-respectively.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@minor-cross-roads-from-right-and-left-respectively.jpg", 
+        "import_path": "minor-cross-roads-from-right-and-left-respectively.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "minor-cross-roads-from-right-and-left-respectively.jpg", 
+            null
+        ]
+    }, 
+    "minor-road-on-the-left.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "minor-road-on-the-left.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "minor-road-on-the-left.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@minor-road-on-the-left.jpg", 
+        "import_path": "minor-road-on-the-left.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "minor-road-on-the-left.jpg", 
+            null
+        ]
+    }, 
+    "minor-road-on-the-right.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "minor-road-on-the-right.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "minor-road-on-the-right.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@minor-road-on-the-right.jpg", 
+        "import_path": "minor-road-on-the-right.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "minor-road-on-the-right.jpg", 
+            null
+        ]
+    }, 
+    "no-entry-for-agricultural-vehicle.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-entry-for-agricultural-vehicle.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-entry-for-agricultural-vehicle.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-entry-for-agricultural-vehicle.jpg", 
+        "import_path": "no-entry-for-agricultural-vehicle.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-entry-for-agricultural-vehicle.jpg", 
+            null
+        ]
+    }, 
+    "no-entry-for-animal-drawn-vehicle.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-entry-for-animal-drawn-vehicle.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-entry-for-animal-drawn-vehicle.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-entry-for-animal-drawn-vehicle.jpg", 
+        "import_path": "no-entry-for-animal-drawn-vehicle.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-entry-for-animal-drawn-vehicle.jpg", 
+            null
+        ]
+    }, 
+    "no-entry-for-cycle.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-entry-for-cycle.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-entry-for-cycle.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-entry-for-cycle.jpg", 
+        "import_path": "no-entry-for-cycle.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-entry-for-cycle.jpg", 
+            null
+        ]
+    }, 
+    "no-entry-for-goods-vehicles.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-entry-for-goods-vehicles.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-entry-for-goods-vehicles.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-entry-for-goods-vehicles.jpg", 
+        "import_path": "no-entry-for-goods-vehicles.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-entry-for-goods-vehicles.jpg", 
+            null
+        ]
+    }, 
+    "no-entry-for-hand-carts.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-entry-for-hand-carts.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-entry-for-hand-carts.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-entry-for-hand-carts.jpg", 
+        "import_path": "no-entry-for-hand-carts.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-entry-for-hand-carts.jpg", 
+            null
+        ]
+    }, 
+    "no-entry-for-motor-cycle.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-entry-for-motor-cycle.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-entry-for-motor-cycle.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-entry-for-motor-cycle.jpg", 
+        "import_path": "no-entry-for-motor-cycle.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-entry-for-motor-cycle.jpg", 
+            null
+        ]
+    }, 
+    "no-entry-for-motor-vehicle.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-entry-for-motor-vehicle.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-entry-for-motor-vehicle.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-entry-for-motor-vehicle.jpg", 
+        "import_path": "no-entry-for-motor-vehicle.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-entry-for-motor-vehicle.jpg", 
+            null
+        ]
+    }, 
+    "no-entry-for-pedestrians.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-entry-for-pedestrians.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-entry-for-pedestrians.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-entry-for-pedestrians.jpg", 
+        "import_path": "no-entry-for-pedestrians.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-entry-for-pedestrians.jpg", 
+            null
+        ]
+    }, 
+    "no-entry-for-vehicles-exceeding-10-meter-in-length.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-entry-for-vehicles-exceeding-10-meter-in-length.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-entry-for-vehicles-exceeding-10-meter-in-length.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-entry-for-vehicles-exceeding-10-meter-in-length.jpg", 
+        "import_path": "no-entry-for-vehicles-exceeding-10-meter-in-length.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-entry-for-vehicles-exceeding-10-meter-in-length.jpg", 
+            null
+        ]
+    }, 
+    "no-entry-for-vehicles-exceeding-6-ton-one-axle.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-entry-for-vehicles-exceeding-6-ton-one-axle.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-entry-for-vehicles-exceeding-6-ton-one-axle.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-entry-for-vehicles-exceeding-6-ton-one-axle.jpg", 
+        "import_path": "no-entry-for-vehicles-exceeding-6-ton-one-axle.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-entry-for-vehicles-exceeding-6-ton-one-axle.jpg", 
+            null
+        ]
+    }, 
+    "no-entry-for-vehicles-exceeding-7-ton-laden-weight.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-entry-for-vehicles-exceeding-7-ton-laden-weight.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-entry-for-vehicles-exceeding-7-ton-laden-weight.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-entry-for-vehicles-exceeding-7-ton-laden-weight.jpg", 
+        "import_path": "no-entry-for-vehicles-exceeding-7-ton-laden-weight.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-entry-for-vehicles-exceeding-7-ton-laden-weight.jpg", 
+            null
+        ]
+    }, 
+    "no-entry-for-vehicles-exceeding-height-more-than-16-6.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-entry-for-vehicles-exceeding-height-more-than-16-6.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-entry-for-vehicles-exceeding-height-more-than-16-6.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-entry-for-vehicles-exceeding-height-more-than-16-6.jpg", 
+        "import_path": "no-entry-for-vehicles-exceeding-height-more-than-16-6.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-entry-for-vehicles-exceeding-height-more-than-16-6.jpg", 
+            null
+        ]
+    }, 
+    "no-entry-for-vehicles-exceeding-width-more-than-8-6.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-entry-for-vehicles-exceeding-width-more-than-8-6.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-entry-for-vehicles-exceeding-width-more-than-8-6.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-entry-for-vehicles-exceeding-width-more-than-8-6.jpg", 
+        "import_path": "no-entry-for-vehicles-exceeding-width-more-than-8-6.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-entry-for-vehicles-exceeding-width-more-than-8-6.jpg", 
+            null
+        ]
+    }, 
+    "no-entry.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-entry.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-entry.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-entry.jpg", 
+        "import_path": "no-entry.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-entry.jpg", 
+            null
+        ]
+    }, 
+    "no-left-turn.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-left-turn.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-left-turn.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-left-turn.jpg", 
+        "import_path": "no-left-turn.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-left-turn.jpg", 
+            null
+        ]
+    }, 
+    "no-right-turn.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-right-turn.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-right-turn.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-right-turn.jpg", 
+        "import_path": "no-right-turn.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-right-turn.jpg", 
+            null
+        ]
+    }, 
+    "no-through-road-on-the-left.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-through-road-on-the-left.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-through-road-on-the-left.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-through-road-on-the-left.jpg", 
+        "import_path": "no-through-road-on-the-left.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-through-road-on-the-left.jpg", 
+            null
+        ]
+    }, 
+    "no-through-road-on-the-right.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-through-road-on-the-right.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-through-road-on-the-right.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-through-road-on-the-right.jpg", 
+        "import_path": "no-through-road-on-the-right.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-through-road-on-the-right.jpg", 
+            null
+        ]
+    }, 
+    "no-u-turn.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "no-u-turn.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "no-u-turn.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@no-u-turn.jpg", 
+        "import_path": "no-u-turn.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "no-u-turn.jpg", 
+            null
+        ]
+    }, 
+    "one-way-road.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "one-way-road.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "one-way-road.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@one-way-road.jpg", 
+        "import_path": "one-way-road.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "one-way-road.jpg", 
+            null
+        ]
+    }, 
+    "one-way.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "one-way.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "one-way.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@one-way.jpg", 
+        "import_path": "one-way.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "one-way.jpg", 
+            null
+        ]
+    }, 
+    "other-dangers.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "other-dangers.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "other-dangers.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@other-dangers.jpg", 
+        "import_path": "other-dangers.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "other-dangers.jpg", 
+            null
+        ]
+    }, 
+    "overtaking-by-goods-vehicles-prohibited.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "overtaking-by-goods-vehicles-prohibited.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "overtaking-by-goods-vehicles-prohibited.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@overtaking-by-goods-vehicles-prohibited.jpg", 
+        "import_path": "overtaking-by-goods-vehicles-prohibited.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "overtaking-by-goods-vehicles-prohibited.jpg", 
+            null
+        ]
+    }, 
+    "overtaking-prohibited.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "overtaking-prohibited.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "overtaking-prohibited.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@overtaking-prohibited.jpg", 
+        "import_path": "overtaking-prohibited.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "overtaking-prohibited.jpg", 
+            null
+        ]
+    }, 
+    "parking-place-direction.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "parking-place-direction.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "parking-place-direction.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@parking-place-direction.jpg", 
+        "import_path": "parking-place-direction.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "parking-place-direction.jpg", 
+            null
+        ]
+    }, 
+    "parking-place-indicated.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "parking-place-indicated.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "parking-place-indicated.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@parking-place-indicated.jpg", 
+        "import_path": "parking-place-indicated.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "parking-place-indicated.jpg", 
+            null
+        ]
+    }, 
+    "parking-placeindicated.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "parking-placeindicated.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "parking-placeindicated.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@parking-placeindicated.jpg", 
+        "import_path": "parking-placeindicated.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "parking-placeindicated.jpg", 
+            null
+        ]
+    }, 
+    "parking-prohibited.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "parking-prohibited.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "parking-prohibited.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@parking-prohibited.jpg", 
+        "import_path": "parking-prohibited.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "parking-prohibited.jpg", 
+            null
+        ]
+    }, 
+    "parking.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "parking.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "parking.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@parking.jpg", 
+        "import_path": "parking.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "parking.jpg", 
+            null
+        ]
+    }, 
+    "passing-police-custom-post-without-stopping.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "passing-police-custom-post-without-stopping.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "passing-police-custom-post-without-stopping.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@passing-police-custom-post-without-stopping.jpg", 
+        "import_path": "passing-police-custom-post-without-stopping.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "passing-police-custom-post-without-stopping.jpg", 
+            null
+        ]
+    }, 
+    "pedestrian-crossing.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "pedestrian-crossing.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "pedestrian-crossing.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@pedestrian-crossing.jpg", 
+        "import_path": "pedestrian-crossing.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "pedestrian-crossing.jpg", 
+            null
+        ]
+    }, 
+    "picnic-site.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "picnic-site.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "picnic-site.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@picnic-site.jpg", 
+        "import_path": "picnic-site.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "picnic-site.jpg", 
+            null
+        ]
+    }, 
+    "restaurant.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "restaurant.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "restaurant.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@restaurant.jpg", 
+        "import_path": "restaurant.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "restaurant.jpg", 
+            null
+        ]
+    }, 
+    "right-bend.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "right-bend.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "right-bend.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@right-bend.jpg", 
+        "import_path": "right-bend.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "right-bend.jpg", 
+            null
+        ]
+    }, 
+    "road-closed.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "road-closed.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "road-closed.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@road-closed.jpg", 
+        "import_path": "road-closed.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "road-closed.jpg", 
+            null
+        ]
+    }, 
+    "road-dips.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "road-dips.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "road-dips.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@road-dips.jpg", 
+        "import_path": "road-dips.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "road-dips.jpg", 
+            null
+        ]
+    }, 
+    "road-leads-on-to-quay-or-river-bank.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "road-leads-on-to-quay-or-river-bank.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "road-leads-on-to-quay-or-river-bank.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@road-leads-on-to-quay-or-river-bank.jpg", 
+        "import_path": "road-leads-on-to-quay-or-river-bank.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "road-leads-on-to-quay-or-river-bank.jpg", 
+            null
+        ]
+    }, 
+    "road-works.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "road-works.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "road-works.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@road-works.jpg", 
+        "import_path": "road-works.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "road-works.jpg", 
+            null
+        ]
+    }, 
+    "roundabout.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "roundabout.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "roundabout.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@roundabout.jpg", 
+        "import_path": "roundabout.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "roundabout.jpg", 
+            null
+        ]
+    }, 
+    "slippery-roads.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "slippery-roads.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "slippery-roads.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@slippery-roads.jpg", 
+        "import_path": "slippery-roads.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "slippery-roads.jpg", 
+            null
+        ]
+    }, 
+    "slow.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "slow.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "slow.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@slow.jpg", 
+        "import_path": "slow.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "slow.jpg", 
+            null
+        ]
+    }, 
+    "starting-points-for-walks.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "starting-points-for-walks.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "starting-points-for-walks.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@starting-points-for-walks.jpg", 
+        "import_path": "starting-points-for-walks.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "starting-points-for-walks.jpg", 
+            null
+        ]
+    }, 
+    "steep-ascent.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "steep-ascent.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "steep-ascent.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@steep-ascent.jpg", 
+        "import_path": "steep-ascent.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "steep-ascent.jpg", 
+            null
+        ]
+    }, 
+    "stop-for-police-post.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "stop-for-police-post.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "stop-for-police-post.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@stop-for-police-post.jpg", 
+        "import_path": "stop-for-police-post.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "stop-for-police-post.jpg", 
+            null
+        ]
+    }, 
+    "stop.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "stop.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "stop.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@stop.jpg", 
+        "import_path": "stop.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "stop.jpg", 
+            null
+        ]
+    }, 
+    "strong-cross-wind.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "strong-cross-wind.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "strong-cross-wind.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@strong-cross-wind.jpg", 
+        "import_path": "strong-cross-wind.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "strong-cross-wind.jpg", 
+            null
+        ]
+    }, 
+    "swing-bridge.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "swing-bridge.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "swing-bridge.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@swing-bridge.jpg", 
+        "import_path": "swing-bridge.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "swing-bridge.jpg", 
+            null
+        ]
+    }, 
+    "telephone.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "telephone.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "telephone.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@telephone.jpg", 
+        "import_path": "telephone.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "telephone.jpg", 
+            null
+        ]
+    }, 
+    "turn-to-left.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "turn-to-left.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "turn-to-left.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@turn-to-left.jpg", 
+        "import_path": "turn-to-left.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "turn-to-left.jpg", 
+            null
+        ]
+    }, 
+    "turn-to-right.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "turn-to-right.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "turn-to-right.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@turn-to-right.jpg", 
+        "import_path": "turn-to-right.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "turn-to-right.jpg", 
+            null
+        ]
+    }, 
+    "turn-to-the-left.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "turn-to-the-left.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "turn-to-the-left.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@turn-to-the-left.jpg", 
+        "import_path": "turn-to-the-left.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "turn-to-the-left.jpg", 
+            null
+        ]
+    }, 
+    "turn-to-the-right.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "turn-to-the-right.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "turn-to-the-right.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@turn-to-the-right.jpg", 
+        "import_path": "turn-to-the-right.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "turn-to-the-right.jpg", 
+            null
+        ]
+    }, 
+    "two-way-traffic.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "two-way-traffic.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "two-way-traffic.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@two-way-traffic.jpg", 
+        "import_path": "two-way-traffic.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "two-way-traffic.jpg", 
+            null
+        ]
+    }, 
+    "u-turn.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "u-turn.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "u-turn.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@u-turn.jpg", 
+        "import_path": "u-turn.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "u-turn.jpg", 
+            null
+        ]
+    }, 
+    "un-even-road.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "un-even-road.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "un-even-road.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@un-even-road.jpg", 
+        "import_path": "un-even-road.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "un-even-road.jpg", 
+            null
+        ]
+    }, 
+    "wild-animal-crossing.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "wild-animal-crossing.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "wild-animal-crossing.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@wild-animal-crossing.jpg", 
+        "import_path": "wild-animal-crossing.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "wild-animal-crossing.jpg", 
+            null
+        ]
+    }, 
+    "yield-to-the-traffic-approaching-from-the-right-on-any-leg-of-the-intersection.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "yield-to-the-traffic-approaching-from-the-right-on-any-leg-of-the-intersection.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "yield-to-the-traffic-approaching-from-the-right-on-any-leg-of-the-intersection.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@yield-to-the-traffic-approaching-from-the-right-on-any-leg-of-the-intersection.jpg", 
+        "import_path": "yield-to-the-traffic-approaching-from-the-right-on-any-leg-of-the-intersection.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "yield-to-the-traffic-approaching-from-the-right-on-any-leg-of-the-intersection.jpg", 
+            null
+        ]
+    }, 
+    "yield-to-the-traffic-approaching-from-the-right-on-the-cross-road.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS105", 
+            "name": "yield-to-the-traffic-approaching-from-the-right-on-the-cross-road.jpg", 
+            "org": "Arbisoft", 
+            "revision": null, 
+            "run": "2018_MID_FEB", 
+            "tag": "c4x"
+        }, 
+        "displayname": "yield-to-the-traffic-approaching-from-the-right-on-the-cross-road.jpg", 
+        "filename": "asset-v1:Arbisoft+CS105+2018_MID_FEB+type@asset+block@yield-to-the-traffic-approaching-from-the-right-on-the-cross-road.jpg", 
+        "import_path": "yield-to-the-traffic-approaching-from-the-right-on-the-cross-road.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Arbisoft", 
+            "CS105", 
+            "thumbnail", 
+            "yield-to-the-traffic-approaching-from-the-right-on-the-cross-road.jpg", 
+            null
+        ]
+    }
+}
