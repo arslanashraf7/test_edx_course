@@ -1,0 +1,8 @@
+<problem display_name="Part 2" markdown="Instead of throwing away the loaves at the end of the day, Hungary Nerds realized they can be sold at a discounted price of $0.25 per loaf at store closing.&#10;&#10;&gt;&gt;What quantity should they now order to maximize profit? (Round to the nearest integer)&lt;&lt;&#10;&#10;= 668+-6&#10;&#10;" max_attempts="3" showanswer="never" weight="5.0">
+  <numericalresponse answer="668">
+    <p>Instead of throwing away the loaves at the end of the day, Hungary Nerds realized they can be sold at a discounted price of $0.25 per loaf at store closing.</p>
+    <label>What quantity should they now order to maximize profit? (Round to the nearest integer)</label>
+    <responseparam type="tolerance" default="6"/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

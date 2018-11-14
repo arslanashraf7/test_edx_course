@@ -1,0 +1,10 @@
+<problem display_name="Part 4" markdown="&gt;&gt;The formula for the efficiency of this machine looks a lot like a formula we saw already in the course. Which formula?&lt;&lt;&#10;&#10;( ) Infinite buffer formula&#10;(x) Buzacott formula&#10;( ) Finite buffer formula&#10;&#10;" max_attempts="3" showanswer="never" weight="5.0">
+  <multiplechoiceresponse>
+    <label>The formula for the efficiency of this machine looks a lot like a formula we saw already in the course. Which formula?</label>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Infinite buffer formula</choice>
+      <choice correct="true">Buzacott formula</choice>
+      <choice correct="false">Finite buffer formula</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

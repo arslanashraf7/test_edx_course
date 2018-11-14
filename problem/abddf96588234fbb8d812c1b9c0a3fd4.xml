@@ -1,0 +1,29 @@
+<problem display_name="Part 1" markdown="Let \(\pi_n\) (n = 0; 1; 2; 3; 4) be the steady state probability that there are n customers in the shop. Write and solve the set of equations to determine \(\pi_n\). Assume \(\lambda=\frac{1}{30}\) and \(\mu=\frac{1}{29}\) (Enter 4 decimal places).&#10;&gt;&gt;What is \(\pi_0\)?&lt;&lt;&#10;&#10;= 0.2138 +- 0.01&#10;&#10;&gt;&gt;What is \(\pi_1\)?&lt;&lt;&#10;&#10;= 0.2067 +-0.01&#10;&#10;&gt;&gt;What is \(\pi_2\)?&lt;&lt;&#10;&#10;= 0.1997 +- 0.01&#10;&#10;&gt;&gt;What is \(\pi_3\)?&lt;&lt;&#10;&#10;= 0.1931 +-0.007&#10;&#10;&gt;&gt;What is \(\pi_4\)?&lt;&lt;&#10;&#10;= 0.1867 +- 0.007&#10;&lt;script src=&quot;/static/st.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;" max_attempts="3" weight="10.0">
+  <p>Let \(\pi_n\) (n = 0; 1; 2; 3; 4) be the steady state probability that there are n customers in the shop. Write and solve the set of equations to determine \(\pi_n\). Assume \(\lambda=\frac{1}{30}\) and \(\mu=\frac{1}{29}\) (Enter 4 decimal places).</p>
+  <label>What is \(\pi_0\)?</label>
+  <numericalresponse answer="0.2138">
+    <responseparam type="tolerance" default="0.01"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <label>What is \(\pi_1\)?</label>
+  <numericalresponse answer="0.2067">
+    <responseparam type="tolerance" default="0.01"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <label>What is \(\pi_2\)?</label>
+  <numericalresponse answer="0.1997">
+    <responseparam type="tolerance" default="0.01"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <label>What is \(\pi_3\)?</label>
+  <numericalresponse answer="0.1931">
+    <responseparam type="tolerance" default="0.007"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <label>What is \(\pi_4\)?</label>
+  <numericalresponse answer="0.1867">
+    <responseparam type="tolerance" default="0.007"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <script src="/static/st.js" type="text/javascript"/>
+</problem>

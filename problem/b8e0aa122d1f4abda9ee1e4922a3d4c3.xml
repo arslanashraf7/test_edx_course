@@ -1,0 +1,8 @@
+<problem display_name="Part 1" markdown="&gt;&gt;How many loaves should they buy each day to maximize expected profit? （Round to the nearest integer)&lt;&lt;&#10;&#10;= 586+-5&#10;&lt;script src=&quot;/static/st.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;" max_attempts="3" showanswer="never" weight="10.0">
+  <numericalresponse answer="586">
+    <label>How many loaves should they buy each day to maximize expected profit? （Round to the nearest integer)</label>
+    <responseparam type="tolerance" default="5"/>
+    <formulaequationinput/>
+    <script src="/static/st.js" type="text/javascript"/>
+  </numericalresponse>
+</problem>

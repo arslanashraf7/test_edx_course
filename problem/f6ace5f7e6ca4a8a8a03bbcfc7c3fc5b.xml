@@ -1,0 +1,7 @@
+<problem display_name="Part 3" markdown="&gt;&gt;What is the production rate of the machine? (Enter 4 decimal places)&lt;&lt;&#10;&#10;= 2*0.3259+-0.06&#10;&#10;" max_attempts="3" showanswer="never" weight="5.0">
+  <numericalresponse answer="2*0.3259">
+    <label>What is the production rate of the machine? (Enter 4 decimal places)</label>
+    <responseparam type="tolerance" default="0.06"/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

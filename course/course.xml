@@ -1,18 +1,15 @@
-<course cert_html_view_enabled="true" display_name="Driving Test" enable_ccx="true" enrollment_start="&quot;2017-01-01T00:00:00+00:00&quot;" giturl="git@github.com:amir-qayyum-khan/test_edx_course.git" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2017-01-08T00:00:00+00:00&quot;">
-  <chapter url_name="0dab35933f0540ac9fa3456684791b89"/>
-  <chapter url_name="04cf7f6c374e48c59dc216aee0c4f7ac"/>
-  <chapter url_name="a8f8a19a57df4eeea110fc8952c5ee2c"/>
-  <chapter url_name="6b39b5b52772449094699b40c3837aa8"/>
-  <chapter url_name="3e1f3ae098ca4ad0a237eced118efc1b"/>
-  <chapter url_name="469a02efd8934947bd6660c19aa5b2ed"/>
-  <chapter url_name="36959c7d88ce4473a58cbe416059dfd7"/>
-  <chapter url_name="0ac4220289cd48fb8ef4a85ab6ce3e97"/>
-  <chapter url_name="ecf299a89fe64738820c5f4b8d182c19"/>
-  <chapter url_name="edbaf5d427874016bcbde975d1cb776b"/>
-  <chapter url_name="33215235a3d84e00bf96129c9e91271e"/>
-  <chapter url_name="18338b19197a40ccaa836b017fc86cf2"/>
-  <chapter url_name="80b3ed75dcbc45358bf4503859679e22"/>
-  <chapter url_name="999461bfc0954a5096289c57aa3b1138"/>
-  <chapter url_name="4bead8cb46bf43b2ba2cc44defd2e7ac"/>
-  <wiki slug="Arbisoft.DTA1.2017"/>
+<course advanced_modules="[&quot;lti_consumer&quot;]" advertised_start="null" allow_unsupported_xblocks="true" cert_html_view_enabled="true" certificates="{&quot;certificates&quot;: [{&quot;course_title&quot;: &quot;&quot;, &quot;description&quot;: &quot;Description of the certificate&quot;, &quot;is_active&quot;: true, &quot;signatories&quot;: [{&quot;name&quot;: &quot;Stanley B. Gershwin&quot;, &quot;certificate&quot;: null, &quot;title&quot;: &quot;Senior Research Scientist&quot;, &quot;organization&quot;: &quot;Massachusetts Institute of Technology&quot;, &quot;signature_image_path&quot;: &quot;/asset-v1:MITx+2.854.1x+1T2018+type@asset+block@Gershwin_Sig.png&quot;, &quot;id&quot;: 370215237}, {&quot;name&quot;: &quot;Krishna Rajagopal&quot;, &quot;certificate&quot;: null, &quot;title&quot;: &quot;Dean for Digital Learning&quot;, &quot;organization&quot;: &quot;Massachusetts Institute of Technology&quot;, &quot;signature_image_path&quot;: &quot;/asset-v1:MITx+2.854.1x+1T2018+type@asset+block@Krishna_Sig.png&quot;, &quot;id&quot;: 627077318}], &quot;version&quot;: 1, &quot;editing&quot;: false, &quot;id&quot;: 1130935627, &quot;name&quot;: &quot;Name of the certificate&quot;}]}" course_image="course_image.jpg" days_early_for_beta="365.0" display_coursenumber="2.854" display_name="Introduction to Manufacturing Systems I" enable_timed_exams="true" end="&quot;2019-01-01T23:30:00+00:00&quot;" enrollment_end="null" enrollment_start="null" giturl="git@github.com:amir-qayyum-khan/test_edx_course.git" graceperiod="1 days" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" lti_passports="[&quot;matlab:5e73f8ec-fe95-44f6-847a-02accefa2b37:c69b86a6-3e8c-4e3b-846d-6053c46e2195&quot;]" minimum_grade_credit="0.8" mobile_available="true" remote_gradebook="{&quot;section&quot;: &quot;&quot;, &quot;name&quot;: &quot;STELLAR:/course/2/fa18/2.854/&quot;}" self_paced="false" start="&quot;2018-08-28T15:00:00+00:00&quot;" video_upload_pipeline="{}">
+  <chapter url_name="287b24f52c8c466d97dc786296e9ccbd"/>
+  <chapter url_name="e6dbf0a56c474a93bb02edc19cba4eb4"/>
+  <chapter url_name="b04a067631b2485aa8be3521fe06087d"/>
+  <chapter url_name="a5296365168c48c8a32c607ea129f952"/>
+  <chapter url_name="ab1a07cf255f47b3a77ebca6282e6b05"/>
+  <chapter url_name="6494184123e7435a9c2a56342ead9e58"/>
+  <chapter url_name="de0e0eadeba745ac849405f4b5bb06c9"/>
+  <chapter url_name="5a2f0ab3691f469e8788226b84a950bd"/>
+  <chapter url_name="1271f0abe7c24746a3eb74d69dbe71cf"/>
+  <chapter url_name="3322cd765bcf4908859a62e7cddef9f2"/>
+  <chapter url_name="6f201678b22a4bd4bc2b904bf2a5fe43"/>
+  <chapter url_name="d8806a51c2434a09878a3a970076cd55"/>
+  <wiki slug="MITx.2.854.1x.3T2017"/>
 </course>

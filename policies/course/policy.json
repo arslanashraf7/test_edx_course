@@ -1,21 +1,73 @@
 {
     "course/course": {
+        "advanced_modules": [
+            "lti_consumer"
+        ], 
+        "advertised_start": null, 
+        "allow_unsupported_xblocks": true, 
         "cert_html_view_enabled": true, 
+        "certificates": {
+            "certificates": [
+                {
+                    "course_title": "", 
+                    "description": "Description of the certificate", 
+                    "editing": false, 
+                    "id": 1130935627, 
+                    "is_active": true, 
+                    "name": "Name of the certificate", 
+                    "signatories": [
+                        {
+                            "certificate": null, 
+                            "id": 370215237, 
+                            "name": "Stanley B. Gershwin", 
+                            "organization": "Massachusetts Institute of Technology", 
+                            "signature_image_path": "/asset-v1:MITx+2.854.1x+1T2018+type@asset+block@Gershwin_Sig.png", 
+                            "title": "Senior Research Scientist"
+                        }, 
+                        {
+                            "certificate": null, 
+                            "id": 627077318, 
+                            "name": "Krishna Rajagopal", 
+                            "organization": "Massachusetts Institute of Technology", 
+                            "signature_image_path": "/asset-v1:MITx+2.854.1x+1T2018+type@asset+block@Krishna_Sig.png", 
+                            "title": "Dean for Digital Learning"
+                        }
+                    ], 
+                    "version": 1
+                }
+            ]
+        }, 
+        "course_image": "course_image.jpg", 
+        "days_early_for_beta": 365.0, 
         "discussion_topics": {
             "General": {
                 "id": "course"
             }
         }, 
-        "display_name": "Driving Test", 
-        "enable_ccx": true, 
-        "enrollment_start": "2017-01-01T00:00:00Z", 
+        "display_coursenumber": "2.854", 
+        "display_name": "Introduction to Manufacturing Systems I", 
+        "enable_timed_exams": true, 
+        "end": "2019-01-01T23:30:00Z", 
+        "enrollment_end": null, 
+        "enrollment_start": null, 
         "giturl": "git@github.com:amir-qayyum-khan/test_edx_course.git", 
+        "graceperiod": "1 days", 
         "instructor_info": {
             "instructors": []
         }, 
         "language": "en", 
         "learning_info": [], 
-        "start": "2017-01-08T00:00:00Z", 
+        "lti_passports": [
+            "matlab:5e73f8ec-fe95-44f6-847a-02accefa2b37:c69b86a6-3e8c-4e3b-846d-6053c46e2195"
+        ], 
+        "minimum_grade_credit": 0.8, 
+        "mobile_available": true, 
+        "remote_gradebook": {
+            "name": "STELLAR:/course/2/fa18/2.854/", 
+            "section": ""
+        }, 
+        "self_paced": false, 
+        "start": "2018-08-28T15:00:00Z", 
         "tabs": [
             {
                 "course_staff_only": false, 
@@ -39,6 +91,7 @@
             }, 
             {
                 "course_staff_only": false, 
+                "is_hidden": true, 
                 "name": "Wiki", 
                 "type": "wiki"
             }, 
@@ -46,8 +99,15 @@
                 "course_staff_only": false, 
                 "name": "Progress", 
                 "type": "progress"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Handout", 
+                "type": "static_tab", 
+                "url_slug": "dbee51f248ef4039a729becc257f73a8"
             }
         ], 
+        "video_upload_pipeline": {}, 
         "xml_attributes": {
             "filename": [
                 "course/course.xml", 

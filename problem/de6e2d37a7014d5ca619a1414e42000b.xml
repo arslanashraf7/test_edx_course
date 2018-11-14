@@ -1,0 +1,7 @@
+<problem display_name="Part 2" markdown="&gt;&gt;They replaced the original sandwich maker with a new sandwich maker whose average sandwich-making time was 25 seconds (The original sandwich maker took 29 seconds on average to prepare a sandwich. What is the average number of customer in the shop at any given time? (Enter 3 decimal places)&lt;&lt;&#10;&#10;= 1.641 +- 0.05&#10;&#10;" max_attempts="3" showanswer="never" weight="5.0">
+  <numericalresponse answer="1.641">
+    <label>They replaced the original sandwich maker with a new sandwich maker whose average sandwich-making time was 25 seconds (The original sandwich maker took 29 seconds on average to prepare a sandwich. What is the average number of customer in the shop at any given time? (Enter 3 decimal places)</label>
+    <responseparam type="tolerance" default="0.05"/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>
